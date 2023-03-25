@@ -1,0 +1,6 @@
+BELAJAR FRONT-END
+- CSS Unit
+- Flexbox
+- CSS Grid
+- Sass
+- Bootstrap / Tailwind
