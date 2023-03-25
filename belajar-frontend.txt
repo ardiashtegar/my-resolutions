@@ -4,3 +4,4 @@ BELAJAR FRONT-END
 - CSS Grid
 - Sass
 - Bootstrap / Tailwind
+- Webpack
