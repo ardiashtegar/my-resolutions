@@ -1,5 +1,6 @@
 MY RESOLUTIONS 2023
-- Konsisten belajar progrmaming setiap hari
+- Konsisten belajar programming setiap hari
 - Belajar front-end development
 - Sudah menguasai front-end development tahun ini
 - Membuat beberapa project dari yang sudah di pelajari
+  Contoh : todo list, portfolio, toko online, dll.
